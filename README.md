@@ -36,4 +36,4 @@ A dessert themed website I designed.
 https://cuberyl-catastrophe.github.io/delish-delivery/
 
 ##
-[![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cubebotfan&theme=gotham&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cuberyl-catastrophe&theme=gotham&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
