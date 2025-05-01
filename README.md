@@ -6,7 +6,7 @@ I'm Ehren, a Software Developer student at MITT. I am passionate about creating 
 
 I have experience programming in JavaScript, Java, C# and C++ but when making games, I prefer coding in JavaScript and C++ for their different things they have to offer. I want to learn assembly languages in the future so that I can truely build a game from nothing.
 
-My website (work in progress): https://cubebotfan.github.io/
+My website (work in progress): https://cuberyl-catastrophe.github.io/
 
 ## My skills
 I have experience programming in JavaScript, Java, C++, and C#. As a web developer I also have skills in HTML, CSS, .Net, and SQL.
